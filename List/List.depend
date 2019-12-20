@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574178059 source:h:\csc375\list\main.cpp
+	<iostream>
+	"List.h"
+
+1574349370 h:\csc375\list\list.h
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572530093 source:c:\users\mmani\desktop\courses\umich\csc375\csc375f19\hws\stackarray\stackarray\main.cpp
+	<iostream>
+	"Stack.h"
+
+1572530200 c:\users\mmani\desktop\courses\umich\csc375\csc375f19\hws\stackarray\stackarray\stack.h
+	"Array.h"
+
+1571752273 c:\users\mmani\desktop\courses\umich\csc375\csc375f19\hws\stackarray\stackarray\array.h
+	<string>
+	<iostream>
+

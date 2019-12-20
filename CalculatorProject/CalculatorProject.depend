@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1521411483 source:c:\users\mmani\desktop\courses\umich\csc375\sampleprograms\calculatorproject\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	"StackArrayHeader.h"
+
+1521246236 c:\users\mmani\desktop\courses\umich\csc375\sampleprograms\calculatorproject\stackarrayheader.h
+	"Array.h"
+
+1521379503 c:\users\mmani\desktop\courses\umich\csc375\sampleprograms\calculatorproject\array.h
+	<iostream>
+	<string>
+
+1542283255 source:c:\users\mmani\desktop\courses\umich\csc375\csc375w19\hws\calculatorproject\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	"Stack.h"
+
+1554387053 c:\users\mmani\desktop\courses\umich\csc375\csc375w19\hws\calculatorproject\stack.h
+	"Array.h"
+
+1554387045 c:\users\mmani\desktop\courses\umich\csc375\csc375w19\hws\calculatorproject\array.h
+	<iostream>
+
+1573582097 source:c:\users\mmani\desktop\courses\umich\csc375\csc375f19\hws\calculatorproject\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<stdlib.h>
+	"Stack.h"
+
+1573155544 c:\users\mmani\desktop\courses\umich\csc375\csc375f19\hws\calculatorproject\stack.h
+	"Array.h"
+
+1571752273 c:\users\mmani\desktop\courses\umich\csc375\csc375f19\hws\calculatorproject\array.h
+	<string>
+	<iostream>
+

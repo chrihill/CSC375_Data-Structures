@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573138429 source:c:\users\mmani\desktop\csc375samples\queuelinkedlistproject\main.cpp
+	<iostream>
+	"Queue.h"
+
+1573138659 c:\users\mmani\desktop\csc375samples\queuelinkedlistproject\queue.h
+
+1573138798 source:h:\csc375\queuelinkedlistproject\main.cpp
+	<iostream>
+	"Queue.h"
+
+1573138659 h:\csc375\queuelinkedlistproject\queue.h
+

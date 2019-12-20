@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1569944506 source:c:\users\mmani\desktop\csc375samples\arrayclassproject\main.cpp
+	<iostream>
+	"Array.h"
+
+1570116043 c:\users\mmani\desktop\csc375samples\arrayclassproject\array.h
+	<string>
+
+1570117467 source:h:\csc375\arrayclassproject\main.cpp
+	<iostream>
+	"Array.h"
+
+1571756159 h:\csc375\arrayclassproject\array.h
+	<string>
+	<iostream>
+

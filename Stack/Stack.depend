@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572533708 source:h:\csc375\stack\main.cpp
+	<iostream>
+	"Stack.h"
+
+1572533844 h:\csc375\stack\stack.h
+	<iostream>
+	"Array.h"
+
+1572534049 h:\csc375\stack\array.h
+	<string>
+	<iostream>
+
